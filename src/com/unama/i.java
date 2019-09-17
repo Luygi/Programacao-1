@@ -1,4 +1,4 @@
-package app;
+package com.unama;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@ package com.unama;
 
 import java.util.Scanner;
 
-public class pd {
+public class L2d {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         float l1;
@@ -17,6 +17,13 @@ public class pd {
         l3 = sc.nextFloat();
         if((l1<l2+l3) && (l2<l1+l3) && (l3<l1+l2)){
             System.out.println("-----------------\n|É um triângulo!|\n-----------------");
+            if(l1 == l2 && l2 == l3){
+                System.out.println("Triângulo Equilátero!");
+            }if(l1 != l2 && l2 != l3 && l3 != l1){
+                System.out.println("Triângulo Escaleno!");
+            }else{
+                System.out.println("Triângulo Isósceles!");
+            }
         }else{
             System.out.println("---------------------\n|Não é um triângulo!|\n---------------------");
         }

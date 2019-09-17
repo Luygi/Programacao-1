@@ -3,7 +3,7 @@ package com.unama;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class pb {
+public class L2b {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int pecas;

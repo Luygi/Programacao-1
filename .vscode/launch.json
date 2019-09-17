@@ -1,0 +1,73 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2f",
+            "request": "launch",
+            "mainClass": "com.unama.L2f",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2d",
+            "request": "launch",
+            "mainClass": "com.unama.L2d",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2k",
+            "request": "launch",
+            "mainClass": "com.unama.L2k",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2j",
+            "request": "launch",
+            "mainClass": "com.unama.L2j",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2i",
+            "request": "launch",
+            "mainClass": "com.unama.L2i",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2g",
+            "request": "launch",
+            "mainClass": "com.unama.L2g",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lh",
+            "request": "launch",
+            "mainClass": "com.unama.Lh",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2h",
+            "request": "launch",
+            "mainClass": "com.unama.L2h",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2a",
+            "request": "launch",
+            "mainClass": "com.unama.L2a",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pg",
+            "request": "launch",
+            "mainClass": "com.unama.pg"
+        }
+    ]
+}

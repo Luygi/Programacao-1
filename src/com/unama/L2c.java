@@ -3,7 +3,7 @@ package com.unama;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class pc {
+public class L2c {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int idade;

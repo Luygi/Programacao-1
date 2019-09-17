@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.text.Format;
 import java.util.Scanner;
 
-public class pa {
+public class L2a {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int copias;

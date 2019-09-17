@@ -1,4 +1,4 @@
-package app;
+package com.unama;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
