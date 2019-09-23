@@ -13,5 +13,6 @@ public class h {
         reajuste = sc.nextFloat();
         sreajuste = salario*reajuste+salario;
         System.out.println("O valor do salário reajustado é de "+sreajuste);
+        sc.close();
     }
 }

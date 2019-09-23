@@ -27,5 +27,6 @@ public class L2d {
         }else{
             System.out.println("---------------------\n|Não é um triângulo!|\n---------------------");
         }
+        sc.close();
     }
 }

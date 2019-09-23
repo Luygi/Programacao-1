@@ -15,6 +15,7 @@ public class d {
         area = Math.PI*Math.pow(raio,2);
         perimetro = 2*Math.PI*raio;
         System.out.println("O valor da área da circunferência é de "+formatador.format(area)+"cm² e o valor do perímetro é de "+formatador.format(perimetro)+"cm" );
+        sc.close();
 
 
     }

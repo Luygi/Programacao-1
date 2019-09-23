@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - L3d",
+            "request": "launch",
+            "mainClass": "com.unama.L3d",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L3c",
+            "request": "launch",
+            "mainClass": "com.unama.L3c",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L3b",
+            "request": "launch",
+            "mainClass": "com.unama.L3b",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L3a",
+            "request": "launch",
+            "mainClass": "com.unama.L3a",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - L2l",
+            "request": "launch",
+            "mainClass": "com.unama.L2l",
+            "projectName": "Programacao_959b64d4"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - L2f",
             "request": "launch",
             "mainClass": "com.unama.L2f",

@@ -12,5 +12,6 @@ public class g {
         System.out.println("Digite o comprimento da sala em metros: ");
         compri = sc.nextFloat();
         System.out.println("A área da sala é de "+largu*compri+"m²");
+        sc.close();
     }
 }

@@ -1,6 +1,5 @@
 package com.unama;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class L2c {
@@ -17,6 +16,6 @@ public class L2c {
         }else{
             System.out.println("------------------\n|CATEGORIA SENIOR|\n------------------");
         }
-
+        sc.close();
     }
 }

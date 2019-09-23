@@ -1,6 +1,4 @@
 package com.unama;
-
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class L2b {
@@ -19,5 +17,6 @@ public class L2b {
         }else{
             System.out.println("A máquina não precisa de manutençõ");
         }
+        sc.close();
     }
 }

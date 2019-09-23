@@ -13,5 +13,6 @@ public class f {
         System.out.println("Digite a quantidade comprada desse mesmo produto: R$");
         quant = sc.nextInt();
         System.out.println("O valor total da compra é igual a R$"+produto*quant);
+        sc.close();
     }
 }

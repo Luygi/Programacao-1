@@ -10,6 +10,6 @@ public class e {
         System.out.println("Digite o total de vendas: R$");
         vendas = sc.nextFloat();
         System.out.println("O valor da comissão é igual a R$"+vendas/100*10+".");
-
+        sc.close();
     }
 }

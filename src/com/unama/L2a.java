@@ -1,7 +1,6 @@
 package com.unama;
 
 import java.text.DecimalFormat;
-import java.text.Format;
 import java.util.Scanner;
 
 public class L2a {
@@ -19,6 +18,6 @@ public class L2a {
             valor = copias*0.20;
             System.out.println("O valor a pagar é de R$"+ formatador.format(valor));
         }
-
+        sc.close();
     }
 }

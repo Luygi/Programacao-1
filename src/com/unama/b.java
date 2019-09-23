@@ -10,5 +10,6 @@ public class b {
         System.out.println("Digite um valor: ");
         n = sc.nextInt();
         System.out.println("O dobro de "+n+" é igual a "+n*2);
+        sc.close();
     }
 }

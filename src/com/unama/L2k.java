@@ -1,6 +1,4 @@
 package com.unama;
-
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class L2k {
@@ -22,8 +20,9 @@ public class L2k {
             case 2:
                 System.out.print("Digite um valor: ");
                 n1 = sc.nextInt();
-                System.out.println("A raiz quadrada de"+n1+"é igual a "+Math.sqrt(n1));
+                System.out.println("A raiz quadrada de "+n1+"é igual a "+Math.sqrt(n1));
             break;
         }
+        sc.close();
     }
 }

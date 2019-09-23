@@ -13,5 +13,6 @@ public class c {
         System.out.println("Digite a altura do triângulo: ");
         altura = sc.nextFloat();
         System.out.println("A área do triângulo é igual a "+base*altura/2);
+        sc.close();
     }
 }

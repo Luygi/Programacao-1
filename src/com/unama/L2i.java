@@ -21,5 +21,6 @@ public class L2i {
             peso_ideal = 62.1*altura-44.7;
             System.out.print("Seu peso ideal é igual a "+formatador.format(peso_ideal)+"kg");
         }
+        sc.close();
     }
 }

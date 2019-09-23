@@ -16,5 +16,6 @@ public class L2g {
         }else{
             System.out.print("O número "+n2+" é maior que "+n1+".");
         }
+        sc.close();
     }
 }

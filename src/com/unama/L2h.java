@@ -13,5 +13,6 @@ public class L2h {
         }else{
             System.out.print("Número Ímpar");
         }
+        sc.close();
     }
 }

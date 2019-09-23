@@ -20,5 +20,6 @@ public class L2f {
             System.out.println("Aluno Reprovado");
             }
         }
+        sc.close();
     }
 }
